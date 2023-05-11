@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="regular_padding">10dp</dimen>
+    <dimen name="article_subheading_width">100dp</dimen>
+    <dimen name="article_line_spacing">5sp</dimen>
+</resources>
